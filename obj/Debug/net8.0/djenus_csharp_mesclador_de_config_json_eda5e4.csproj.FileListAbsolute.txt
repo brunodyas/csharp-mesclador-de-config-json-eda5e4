@@ -12,3 +12,4 @@ D:\Projetos\GitAuto\workspace\djenus-csharp-mesclador-de-config-json-eda5e4\obj\
 D:\Projetos\GitAuto\workspace\djenus-csharp-mesclador-de-config-json-eda5e4\obj\Debug\net8.0\djenus_csharp_mesclador_de_config_json_eda5e4.pdb
 D:\Projetos\GitAuto\workspace\djenus-csharp-mesclador-de-config-json-eda5e4\obj\Debug\net8.0\djenus_csharp_mesclador_de_config_json_eda5e4.genruntimeconfig.cache
 D:\Projetos\GitAuto\workspace\djenus-csharp-mesclador-de-config-json-eda5e4\obj\Debug\net8.0\ref\djenus_csharp_mesclador_de_config_json_eda5e4.dll
+D:\Projetos\GitAuto\workspace\djenus-csharp-mesclador-de-config-json-eda5e4\obj\Debug\net8.0\djenus_csharp_mesclador_de_config_json_eda5e4.sourcelink.json
