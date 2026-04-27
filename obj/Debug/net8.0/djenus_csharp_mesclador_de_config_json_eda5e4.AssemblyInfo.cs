@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("djenus_csharp_mesclador_de_config_json_eda5e4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+467e89b40014845bd671fe1caf85e8e3a286ded7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f74116fa2216cac834caf3ab664c43252003305e")]
 [assembly: System.Reflection.AssemblyProductAttribute("djenus_csharp_mesclador_de_config_json_eda5e4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("djenus_csharp_mesclador_de_config_json_eda5e4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
